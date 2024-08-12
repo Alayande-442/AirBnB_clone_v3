@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-"""database engine """
+"""database engine file """
 
 import os
 from sqlalchemy import create_engine, MetaData
